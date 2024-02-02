@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_GF.png">
+<SubTexture name="M GF Idle0000" x="0" y="3374" width="1314" height="1104" frameX="-575" frameY="-473" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M GF Idle0001" x="0" y="3374" width="1314" height="1104" frameX="-575" frameY="-473" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M GF Idle0002" x="3900" y="0" width="1300" height="1111" frameX="-579" frameY="-466" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M GF Idle0003" x="3900" y="0" width="1300" height="1111" frameX="-579" frameY="-466" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M GF Idle0004" x="1314" y="2253" width="1300" height="1114" frameX="-579" frameY="-463" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M GF Idle0005" x="1314" y="2253" width="1300" height="1114" frameX="-579" frameY="-463" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M GF Idle0006" x="2600" y="1122" width="1300" height="1121" frameX="-579" frameY="-456" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M GF Idle0007" x="2600" y="1122" width="1300" height="1121" frameX="-579" frameY="-456" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M GF Idle0008" x="2600" y="0" width="1300" height="1122" frameX="-579" frameY="-455" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M GF Idle0009" x="2600" y="0" width="1300" height="1122" frameX="-579" frameY="-455" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M GF Idle0010" x="2600" y="0" width="1300" height="1122" frameX="-579" frameY="-455" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M GF Idle0011" x="2600" y="0" width="1300" height="1122" frameX="-579" frameY="-455" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M GF Idle0012" x="2600" y="0" width="1300" height="1122" frameX="-579" frameY="-455" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M GF Idle0013" x="2600" y="0" width="1300" height="1122" frameX="-579" frameY="-455" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M GF Idle0014" x="2600" y="0" width="1300" height="1122" frameX="-579" frameY="-455" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M GF Idle0015" x="0" y="2253" width="1314" height="1121" frameX="-575" frameY="-456" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M GF Idle0016" x="0" y="2253" width="1314" height="1121" frameX="-575" frameY="-456" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M GF Idle0017" x="1300" y="0" width="1300" height="1124" frameX="-579" frameY="-453" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M GF Idle0018" x="1300" y="0" width="1300" height="1124" frameX="-579" frameY="-453" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M GF Idle0019" x="0" y="0" width="1300" height="1129" frameX="-579" frameY="-448" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M GF Idle0020" x="0" y="0" width="1300" height="1129" frameX="-579" frameY="-448" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M GF Idle0021" x="0" y="1129" width="1300" height="1124" frameX="-579" frameY="-453" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M GF Idle0022" x="0" y="1129" width="1300" height="1124" frameX="-579" frameY="-453" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M GF Idle0023" x="1300" y="1129" width="1300" height="1124" frameX="-579" frameY="-453" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M GF Idle0024" x="1300" y="1129" width="1300" height="1124" frameX="-579" frameY="-453" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M GF Idle0025" x="1300" y="1129" width="1300" height="1124" frameX="-579" frameY="-453" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M GF Idle0026" x="1300" y="1129" width="1300" height="1124" frameX="-579" frameY="-453" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M GF Idle0027" x="1300" y="1129" width="1300" height="1124" frameX="-579" frameY="-453" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M GF Idle0028" x="1300" y="1129" width="1300" height="1124" frameX="-579" frameY="-453" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M GF Idle0029" x="1300" y="1129" width="1300" height="1124" frameX="-579" frameY="-453" frameWidth="1920" frameHeight="1920" />
+</TextureAtlas>

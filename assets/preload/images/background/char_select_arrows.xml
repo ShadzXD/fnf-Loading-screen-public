@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="char_select_arrows.png">
+<SubTexture name="left static0000" x="671" y="0" width="319" height="326" frameX="-15" frameY="-8" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="left press0000" x="336" y="0" width="335" height="346" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="right static0000" x="0" y="347" width="319" height="326" frameX="0" frameY="-10" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="right press0000" x="0" y="0" width="336" height="347" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

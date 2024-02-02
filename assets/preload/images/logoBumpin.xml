@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="logoBumpin.png">
+<SubTexture name="logo bumpin0000" x="0" y="0" width="782" height="486" frameX="-120" frameY="-80" frameWidth="870" frameHeight="870" />
+<SubTexture name="logo bumpin0001" x="0" y="0" width="782" height="486" frameX="-120" frameY="-80" frameWidth="870" frameHeight="870" />
+<SubTexture name="logo bumpin0002" x="782" y="0" width="761" height="474" frameX="-133" frameY="-85" frameWidth="870" frameHeight="870" />
+<SubTexture name="logo bumpin0003" x="782" y="0" width="761" height="474" frameX="-133" frameY="-85" frameWidth="870" frameHeight="870" />
+<SubTexture name="logo bumpin0004" x="0" y="486" width="755" height="471" frameX="-136" frameY="-87" frameWidth="870" frameHeight="870" />
+<SubTexture name="logo bumpin0005" x="0" y="486" width="755" height="471" frameX="-136" frameY="-87" frameWidth="870" frameHeight="870" />
+<SubTexture name="logo bumpin0006" x="0" y="486" width="755" height="471" frameX="-136" frameY="-87" frameWidth="870" frameHeight="870" />
+<SubTexture name="logo bumpin0007" x="0" y="486" width="755" height="471" frameX="-136" frameY="-87" frameWidth="870" frameHeight="870" />
+<SubTexture name="logo bumpin0008" x="0" y="486" width="755" height="471" frameX="-136" frameY="-87" frameWidth="870" frameHeight="870" />
+<SubTexture name="logo bumpin0009" x="0" y="486" width="755" height="471" frameX="-136" frameY="-87" frameWidth="870" frameHeight="870" />
+<SubTexture name="logo bumpin0010" x="0" y="486" width="755" height="471" frameX="-136" frameY="-87" frameWidth="870" frameHeight="870" />
+<SubTexture name="logo bumpin0011" x="0" y="486" width="755" height="471" frameX="-136" frameY="-87" frameWidth="870" frameHeight="870" />
+<SubTexture name="logo bumpin0012" x="0" y="486" width="755" height="471" frameX="-136" frameY="-87" frameWidth="870" frameHeight="870" />
+<SubTexture name="logo bumpin0013" x="0" y="486" width="755" height="471" frameX="-136" frameY="-87" frameWidth="870" frameHeight="870" />
+</TextureAtlas>

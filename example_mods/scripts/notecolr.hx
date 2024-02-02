@@ -1,0 +1,1 @@
+PlayState.SONG.disableNoteRGB = true;

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_story_mode.png">
+<SubTexture name="story_mode white0000" x="0" y="454" width="828" height="216" frameX="0" frameY="-10" frameWidth="798" frameHeight="204" />
+<SubTexture name="story_mode white0001" x="0" y="228" width="829" height="226" frameX="0" frameY="-3" frameWidth="798" frameHeight="204" />
+<SubTexture name="story_mode white0002" x="0" y="0" width="829" height="228" frameX="0" frameY="-2" frameWidth="798" frameHeight="204" />
+<SubTexture name="story_mode basic0000" x="829" y="186" width="617" height="180" frameX="-111" frameY="-27" frameWidth="798" frameHeight="204" />
+<SubTexture name="story_mode basic0001" x="829" y="366" width="620" height="180" frameX="-111" frameY="-27" frameWidth="798" frameHeight="204" />
+<SubTexture name="story_mode basic0002" x="829" y="0" width="620" height="186" frameX="-112" frameY="-23" frameWidth="798" frameHeight="204" />
+</TextureAtlas>

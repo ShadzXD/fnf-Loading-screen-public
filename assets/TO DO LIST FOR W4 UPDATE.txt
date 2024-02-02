@@ -1,0 +1,28 @@
+1. fix gf speakers in w4 bg so shes behind the car again (done)
+
+2. make it so loading screen appears after char select in 
+freeplay and make it so that character play their "hey" 
+anim at the same time(done)
+
+3. remove weird cutscene thing in w2 story mode on the 
+monster song (done)
+
+4. fix note splash offsets in game (they need to go a 
+little up and a litle left to fit a bit better to where the 
+arrows are)(done)
+
+5. remove the week unlocked notifications and char select 
+unlocked notifications (done i think)
+
+6. make it so char select is unlocked by default (and all 
+char select characters are unlocked by default) (done, i think)
+
+7. ghost tapping for some reason is still turned on at the 
+start and end of songs and also when gf sings in tutorial if 
+you miss press it doesnt play the miss press animation
+
+8. make sure the music stops when the loading screen pops up(done but only for story mode)
+
+9. in week 4 when u select a character make sure its the car 
+ver of them (aka if u select bf on the playable char menu for 
+a week 4 song it uses the bf_car sprite)(done)

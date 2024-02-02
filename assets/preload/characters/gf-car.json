@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sad",
+			"indices": [],
+			"name": "gf sad Hair blowing CAR"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "GF Dancing Beat left Hair blowing CAR",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				9,
+				9,
+				10,
+				10,
+				9,
+				9,
+				10,
+				10,
+				9,
+				9,
+				10,
+				10,
+				9,
+				9,
+				10,
+				10,
+				9,
+				9,
+				10,
+				10,
+				9,
+				9,
+				10,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "GF Dancing Beat right Hair blowing CAR",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				9,
+				9,
+				10,
+				10,
+				9,
+				9,
+				10,
+				10,
+				9,
+				9,
+				10,
+				10,
+				9,
+				9,
+				10,
+				10
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gfCar",
+	"position": [
+		-760,
+		-660
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		200
+	],
+	"camera_position": [
+		690,
+		290
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

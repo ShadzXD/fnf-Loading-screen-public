@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bgLimo.png">
+<SubTexture name="background limo pink0000" x="0" y="0" width="1952" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="background limo pink0001" x="0" y="1080" width="1952" height="400" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

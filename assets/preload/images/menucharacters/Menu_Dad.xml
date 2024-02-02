@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_Dad.png">
+<SubTexture name="M Dad Idle0000" x="0" y="1344" width="700" height="1326" frameX="-389" frameY="-430" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M Dad Idle0001" x="0" y="1344" width="700" height="1326" frameX="-389" frameY="-430" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M Dad Idle0002" x="2049" y="0" width="684" height="1333" frameX="-397" frameY="-424" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M Dad Idle0003" x="2049" y="0" width="684" height="1333" frameX="-397" frameY="-424" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M Dad Idle0004" x="1366" y="0" width="683" height="1340" frameX="-397" frameY="-417" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M Dad Idle0005" x="1366" y="0" width="683" height="1340" frameX="-397" frameY="-417" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M Dad Idle0006" x="0" y="0" width="683" height="1344" frameX="-397" frameY="-413" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M Dad Idle0007" x="0" y="0" width="683" height="1344" frameX="-397" frameY="-413" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M Dad Idle0008" x="683" y="0" width="683" height="1344" frameX="-397" frameY="-413" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M Dad Idle0009" x="683" y="0" width="683" height="1344" frameX="-397" frameY="-413" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M Dad Idle0010" x="683" y="0" width="683" height="1344" frameX="-397" frameY="-413" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M Dad Idle0011" x="683" y="0" width="683" height="1344" frameX="-397" frameY="-413" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M Dad Idle0012" x="683" y="0" width="683" height="1344" frameX="-397" frameY="-413" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="M Dad Idle0013" x="683" y="0" width="683" height="1344" frameX="-397" frameY="-413" frameWidth="1920" frameHeight="1920" />
+</TextureAtlas>
