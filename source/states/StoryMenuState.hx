@@ -251,8 +251,6 @@ class StoryMenuState extends MusicBeatState
 			}
 			else if (controls.ACCEPT)
 			{
-				FlxG.sound.music.volume = 0;
-				FreeplayState.destroyFreeplayVocals();
 				selectWeek();
 			}
 		}
@@ -328,6 +326,7 @@ class StoryMenuState extends MusicBeatState
 
 			new FlxTimer().start(1, function(tmr:FlxTimer)
 			{
+				FlxG.sound.music.volume = 0;
 				LoadingState.loadAndSwitchState(new PlayState(), true);
 				FreeplayState.destroyFreeplayVocals();
 			});
